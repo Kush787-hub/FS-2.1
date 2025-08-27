@@ -38,4 +38,5 @@ Here is how the Live Character Counter looks:
 
 ![Live Character Counter Screenshot](LiveChar.png)
 
-Made By : Asheem Khan (23BCS13395)
+
+Made By : Kush bansal (23BCS13505)
